@@ -1,0 +1,123 @@
+
+body {
+	font-family: Montserrat;
+	font-style: normal;
+font-weight: normal;
+}
+.container {
+	justify-content: space-between;
+}
+.col{
+	display: inline-flex;
+}
+.col-md-4 ul{
+	display: inline-flex;
+		list-style: none;
+	padding: 20px;
+}
+
+ul a {
+text-decoration: none;
+
+}
+.nav-main {
+	color: #383971;
+	font-size: 16px;
+	font-weight: 600;
+	margin-right: 50px;
+}
+	
+.col-md-4 li {
+	padding-right: 10px; 
+}
+
+.signup {
+background: #4560F5;
+margin-right: 30px;
+}
+.signup a {
+	color: white;
+}
+.top-right {
+	text-align: right;
+}
+
+h1 {
+	font-weight: bold;
+font-size: 36px;
+color: #383971;
+margin-bottom: 50px;
+}
+
+.content li {
+	font-weight: 500;
+font-size: 36px;
+color: #2D2E6A;
+}
+
+
+
+.content col-md-12 {
+	 align-items: left;
+    align-content: left; 
+    justify-content: left;
+    padding-top: 50px$ 
+    padding-bottom: 50px;
+}
+
+.champion img{
+	width: 400px;
+	padding-left: 40px;
+
+}
+footer {
+background-color: #1c1d5d;
+color: white;
+		
+}
+
+footer a {
+	color: white;
+
+}
+
+.nav-footer{
+	margin-right: 50px;
+}
+.nav-foot{
+	text-align: center;
+}
+.footer1 {
+	padding-bottom: 0px;
+	
+}
+.footer2{
+	 align-items: flex-start;
+	 align-items: center;
+	}
+.address {
+	color: #7A7BA0;
+	text-align: left;
+}
+
+
+.networks {
+	text-align: right;
+}
+.email {
+	text-align: right;
+}
+.en_ru{
+	text-align: center;
+	vertical-align: ;
+		}
+
+.en_ru li {
+	padding-bottom: 20px$
+	padding-right: 20px;
+}
+
+button {
+	background-color: #4560F5;
+	margin-bottom: 20px;
+}

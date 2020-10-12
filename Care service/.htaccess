@@ -1,1 +1,4 @@
-﻿user_1:qZdQvO61/ZwVQ
+﻿AuthType Basic
+AuthName "Protected Area"
+AuthUserFile https://polina-ryzhkova.github.io/Care%20service/Care%20service.html
+Require valid-user

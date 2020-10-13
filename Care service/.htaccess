@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Area"
-AuthUserFile https://polina-ryzhkova.github.io/Care%20service/Care%20service.html.htpasswd
+AuthUserFile https://github.com/polina-ryzhkova/.htpasswd
 Require valid-user
